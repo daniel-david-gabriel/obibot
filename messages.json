@@ -1,0 +1,16 @@
+{
+    "help" : "Greetings. I am Obibot.\nHere are my available commands:\nhelp - Prints this message.\nupcoming - I'll list out the next few events on the calendar.\n",
+    "greeting" : "Hello miss",
+    "farewell" : "Goodbye miss",
+    "sudoku" : "I guess I've done something wrong. Shutting down.",
+    "upcoming" : {
+        "found_upcoming" : "I found a number of upcoming events:\n",
+        "no_upcoming" : "I couldn't find any upcoming events.\n",
+        "all_day" : "%s: on %s, all day long!\n",
+        "between" : "%s: from %s to %s!\n"
+    },
+    "announcement" : {
+        "upcoming" : "Hey everyone, just a reminder that %s will be happening in %s days!",
+        "today" : "Hey everyone, today is %s"
+    }
+}
